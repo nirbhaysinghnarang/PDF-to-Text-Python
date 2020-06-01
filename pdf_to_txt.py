@@ -5,7 +5,7 @@ from PyPDF2 import PdfFileReader
 import os
 import sys
 
-class pdf_to_txt():
+class pdf_to_txt_obj():
 	def __init__(self,file_name,target_name,path):
 		self.file_name = file_name
 		self.target_name = target_name

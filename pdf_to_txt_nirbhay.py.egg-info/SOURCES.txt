@@ -1,0 +1,6 @@
+README.md
+setup.py
+pdf_to_txt_nirbhay.py.egg-info/PKG-INFO
+pdf_to_txt_nirbhay.py.egg-info/SOURCES.txt
+pdf_to_txt_nirbhay.py.egg-info/dependency_links.txt
+pdf_to_txt_nirbhay.py.egg-info/top_level.txt
